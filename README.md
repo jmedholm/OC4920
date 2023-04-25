@@ -4,9 +4,9 @@ We will start to plan the cruise later this week, and I would like you to arrive
 
 Some things that you could do:
 
-Plot the sea surface temperature in the Skagerak/Kattegat seas for a given day in the summer and winter and compare the two. What differences do you observe? How do they relate to the physical properties of the Baltic Sea?
+Plot the sea surface temperature in the Skagerak/Kattegat seas for a given day in the April and May and compare the two. What differences do you observe? How do they relate to the physical properties of the Baltic Sea?
 
-Compute the average temperature, salinity, and current velocity in a given region of the Skagerak/Kattegat seas over a period of several months. How do these variables vary over time? Are there any correlations between them?
+Compute the average temperature, salinity, and current velocity in a given region of the Skagerak/Kattegat seas over a period. How do these variables vary over time? Are there any correlations between them?
 
 Use the salinity data to identify the location of a front in the Skagerak/Kattegat seas between two water masses with different salinity values. How does the location of the front vary over time? What physical processes might be responsible for its movement?
 
